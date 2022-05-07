@@ -1,0 +1,24 @@
+* > * {
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	height: 100vh;
+	color: var(--white-500);
+
+	font-family: "Inter";
+	font-size: 15px;
+
+	background-color: var(--background-600);
+}
+
+strong {
+	color: var(--accent-500);
+}
+
+.container {
+	width: 100%;
+	display: grid;
+	justify-content: center;
+}
