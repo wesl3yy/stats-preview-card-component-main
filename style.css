@@ -1,0 +1,10 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+
+@import "css/root.css";
+@import "css/base.css";
+@import "css/headings.css";
+
+/* components */
+@import "css/card.css";
+@import "css/attribution.css";
